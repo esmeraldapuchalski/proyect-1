@@ -1,5 +1,5 @@
 ENLACE CON ARCHIVO PERSONAL
-[[¨MI DOCUMENTO PERSONAL"]] (https://docs.google.com/document/d/1h5COShkV8GCrbhlR582LrC5VjzFUlfyuz_j_wTToOkI/edit?usp=sharing)]
+[[¨MI DOCUMENTO PERSONAL"] (https://docs.google.com/document/d/1h5COShkV8GCrbhlR582LrC5VjzFUlfyuz_j_wTToOkI/edit?usp=sharing)]
 
 
 # Investigación sobre la Educación del Preceptor en Misiones, Argentina
